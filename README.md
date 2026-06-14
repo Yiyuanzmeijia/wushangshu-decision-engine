@@ -13,7 +13,7 @@ An AI decision engine that turns uncertainty into one clear decision.
 Most AI systems generate multiple possibilities.
 
 WUSHANGSHU does something different:
-it converges complexity into a single actionable outcome.
+it converges uncertainty into a single decision.
 
 Not explaining decisions.  
 Making them.
@@ -41,7 +41,7 @@ Sanbian → Sanjuan → 3D Structure → Decision Space
 
 - Map uncertainty into structured dimensions  
 - Expand decision space (36 → 216 → 1296)  
-- Converge multiple paths into one decision  
+- Converge multiple possibilities into a single decision  
 
 ---
 
@@ -104,3 +104,5 @@ From change → to structure → to decision → to unity
 
 Classical Chinese version and full framework:  
 https://coral-octagon-a2d.notion.site/37f44e46f96480bf816bc5e0a1a13b91
+
+---
