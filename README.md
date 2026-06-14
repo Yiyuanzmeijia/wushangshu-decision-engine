@@ -4,7 +4,19 @@ Most AI systems give you options.
 
 WUSHANGSHU gives you one decision.  
 
-An AI decision engine that converges uncertainty into a single, actionable outcome.
+An AI decision engine that turns uncertainty into one clear decision.
+
+---
+
+## Core Idea
+
+Most AI systems generate multiple possibilities.
+
+WUSHANGSHU does something different:
+it converges complexity into a single actionable outcome.
+
+Not explaining decisions.  
+Making them.
 
 ---
 
@@ -14,9 +26,9 @@ Sanbian → Sanjuan → 3D Structure → Decision Space
 → Convergence → Decision → Unity  
 
 ### Sanbian (Three Transformations)
-- Time (Timing / context evolution)
-- Momentum (change / opportunity dynamics)
-- Control (agency / execution power)
+- Time (timing / contextual evolution)  
+- Momentum (change / opportunity dynamics)  
+- Control (agency / execution power)  
 
 ### Sanjuan (Three Axes)
 - Time  
@@ -29,7 +41,7 @@ Sanbian → Sanjuan → 3D Structure → Decision Space
 
 - Map uncertainty into structured dimensions  
 - Expand decision space (36 → 216 → 1296)  
-- Converge multiple paths into a single actionable decision  
+- Converge multiple paths into one decision  
 
 ---
 
@@ -40,7 +52,7 @@ Should I build now, or wait?
 
 **Evaluation:**
 - Time → opportunity window is open  
-- Momentum → only grows if action starts  
+- Momentum → grows only if action starts  
 - Control → execution is fully owned  
 
 **Convergence:**
@@ -49,6 +61,17 @@ Should I build now, or wait?
 
 👉 **Decision:**  
 Build now, publish early, refine later.
+
+---
+
+## Why It Matters
+
+In high-uncertainty environments, more options don’t help.
+
+Clarity does.
+
+WUSHANGSHU is designed to reduce complexity  
+and force a decision when it matters most.
 
 ---
 
@@ -64,10 +87,10 @@ It is a **decision engine**.
 
 ## Use Cases
 
-- AI decision systems  
-- Product strategy  
-- Architecture selection  
-- High-uncertainty environments  
+- AI decision engines  
+- Product launch decisions  
+- Architecture trade-off analysis  
+- High-uncertainty strategic choices  
 
 ---
 
