@@ -1,18 +1,10 @@
 # WUSHANGSHU v2.0
 
-An AI decision system designed to converge uncertainty into a single decision.
+Most AI systems give you options.  
 
----
+WUSHANGSHU gives you one decision.  
 
-## Core Idea
-
-Most AI systems generate options.
-
-WUSHANGSHU does something different:
-it converges multiple possibilities into one decision.
-
-Not explaining decisions.  
-Making them.
+An AI decision engine that converges uncertainty into a single, actionable outcome.
 
 ---
 
