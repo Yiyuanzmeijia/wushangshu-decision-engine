@@ -1,7 +1,9 @@
-# WUSHANGSHU v2.0  
-## 十勝十敗論（Ten Wins Model）
+# WUSHANGSHU v2.0
 
----
+Most AI systems give you options.  
+WUSHANGSHU gives you one decision.
+
+An AI decision engine based on the Ten Wins model.
 
 ## Overview
 
