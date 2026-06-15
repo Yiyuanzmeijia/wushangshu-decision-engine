@@ -1,24 +1,27 @@
 # Wushangshu Decision Engine
 
-A structured system for **strategy modeling and adaptive decision-making**.
+An executable strategy system that converts **uncertainty into a single decision**.
 
-Wushangshu translates classical strategic thinking into:
+Unlike most AI systems that generate multiple options,  
+Wushangshu **converges possibilities into action** through:
 
-> **An executable decision system**
+- structured evaluation  
+- strategy modeling  
+- state transition  
 
 ---
 
 ## Overview
 
-Wushangshu is designed as a layered architecture:
+Wushangshu is a layered decision architecture:
 
 Principle → Evaluation → Structure → Transition → Execution
 
-Current progress:
+Current implementation:
 
-- ✅ Relativity (Principle Layer)
-- ✅ Ten Wins / Ten Losses (Evaluation Layer)
-- ✅ Thirty-Six Strategies (Structure Layer)
+- ✅ Relativity (semantic frame)
+- ✅ Ten Wins / Ten Losses (evaluation model)
+- ✅ Thirty-Six Strategies (structure abstraction)
 - ✅ Transition Engine (v0.1)
 
 ---
@@ -27,36 +30,42 @@ Current progress:
 
 Most systems can:
 
-- describe situations  
+- describe a situation  
 - evaluate options  
-- select strategies  
+- recommend strategies  
 
-But fail at one key aspect:
+But they cannot answer:
 
-> **How strategies change over time**
+> **How should a decision evolve over time?**
 
-Wushangshu focuses on:
+Wushangshu solves this by modeling:
 
-- representing strategy as state  
-- defining transformations between states  
-- enabling dynamic decision evolution  
+- strategy as state  
+- decisions as transitions  
+- adaptation as an executable process  
 
 ---
 
-## Transition Engine (核心亮點)
+## Transition Engine
 
-The Transition Engine models decision-making as:
+The system models decision-making as:
 
 State → Rule → New State
 
 ### Components
 
-- **State** → current situation + strategy  
-- **Condition** → when a rule applies  
-- **Trigger** → when change is activated  
-- **Transformation** → how state changes  
+- **State**  
+  Current situation + strategy  
+
+- **Condition**  
+  When a rule is applicable  
+
+- **Trigger**  
+  When change should occur  
+
+- **Transformation**  
+  How the strategy evolves  
 
 ---
 
 ## Quick Start
-
