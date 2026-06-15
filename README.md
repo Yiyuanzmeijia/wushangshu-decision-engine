@@ -3,77 +3,97 @@
 Most AI systems give you options.  
 WUSHANGSHU gives you one decision.
 
-An AI decision engine based on the Ten Wins model.
+It is not a recommendation system.  
+It is a decision engine.
 
+---
 
 ## Overview
 
-This is the core decision framework of WUSHANGSHU.
+WUSHANGSHU is an AI decision system designed to:
 
-It is derived from Guo Jia (Han dynasty), extended as a modern decision system.
+- Evaluate uncertainty  
+- Converge possibilities  
+- Output one actionable decision  
 
-The purpose is not to describe victory,  
-but to define how decisions are made under uncertainty.
+It operates on two layers:
 
----
-
-## Original Text（文）
-
-武尚書 十勝十敗論
-
-漢 郭嘉 述  
-武尚書 補註 並 時事解  
-公元2026年  
-益源子 梅佳 編次  
-
-郭嘉曰 攻者敬也 而敵國服  
-乃可御人 不為事先  
-
-漢末群雄多以勇立名  
-但天下已非勇者勝之世  
-
-糧乏 地裂 民疲 兵散  
-勇不敵勢 死不敵時  
-
-故輕死者 必為大局所棄  
-
-此道勝一  
-
-強者恭也 怨之所攻  
-
-士卒用命 動而輒隨  
-
-群雄多守一隅  
-急於求成 不能久持  
-
-天下方亂 能久者勝 躁者亡  
-
-公能久 諸侯不能  
-
-知其不可戰 躁可久之  
-
-此德勝二  
-
-（以下略，完整請見 Notion / 本文）
+Ten Wins → Decision Criteria Thirty-Six Strategies → Execution Layer
 
 ---
 
-## Ten Wins Model（術）
+## Core Model
 
-The Ten Wins define a decision evaluation system:
+### Ten Wins（Decision Layer）
+
+Defines how a decision is made.
 
 | Dimension | Meaning |
 |----------|--------|
 | 道勝 | Alignment with timing and macro forces |
 | 德勝 | Long-term endurance capability |
-| 仁勝 | Ability to gather and stabilize people |
-| 義勝 | Discipline over short-term impulses |
-| 治勝 | Decisiveness under uncertainty |
-| 明勝 | System and structure over trust |
-| 度勝 | Flexibility and tolerance |
-| 文勝 | Control of timing and tempo |
-| 謀勝 | Strategic planning capability |
+| 仁勝 | Cohesion and ability to gather people |
+| 義勝 | Discipline over impulse |
+| 治勝 | Decisiveness |
+| 明勝 | System over trust |
+| 度勝 | Flexibility |
+| 文勝 | Timing control |
+| 謀勝 | Strategic awareness |
 | 武勝 | Execution power |
+
+---
+
+## Execution Layer
+
+### Thirty-Six Strategies（Strategy Space）
+
+Strategies operate across three dimensions:
+
+- Time（時）
+- Domain（界）
+- Mind（心）
+
+Each strategy shifts these to create advantage.
+
+---
+
+## Strategy Matrix
+
+IMG_1175.jpeg
+
+f(War State, Terrain) → Strategy → Decision
+
+A structured mapping from situation to action.
+
+---
+
+## Example Strategies
+
+### Borrowed Blade（借刀殺人）
+
+刀者勢  
+借者時  
+殺者心  
+
+If timing is right,  
+you don’t need power — you borrow it.
+
+---
+
+### Strike East, Attack West（聲東擊西）
+
+Signal in one direction  
+Act in another  
+
+→ Shift attention  
+→ Break structure  
+→ Control timing  
+
+---
+
+## Decision Logic
+
+Input → Situation Evaluate → Ten Wins Map → Strategy Matrix (36) Converge → One Decision
 
 ---
 
@@ -82,32 +102,8 @@ The Ten Wins define a decision evaluation system:
 十勝者 非勝人也  
 勝其欲與怠而已  
 
-Victory is not over others.  
-It is over desire and inertia.
-
----
-
-## Decision Logic
-
-Input → Situation Evaluate → Ten Dimensions Score → Relative Advantage Converge → One Decision
-
----
-
-## Example
-
-Question:  
-Should I act now or wait?
-
-Decision factors:
-- Momentum
-- Control
-- Timing
-
-Result:
-Act → gain structure and visibility  
-Wait → lose momentum  
-
-👉 Decision: Act
+Victory is not over others  
+It is over desire and inertia  
 
 ---
 
@@ -116,12 +112,15 @@ Wait → lose momentum
 天下之敗 敗於欲與怠  
 天下之勝 勝於義與敬  
 
-This system defines decision quality  
-by internal state, not external strength.
+Decision quality is determined  
+by internal state not external strength  
 
 ---
 
 ## Source
 
-Full classical text (Chinese):
-https://coral-octagon-a2d.notion.site/37f44e46f96480bf816bc5e0a1a13b9
+Full classical text:
+
+https://coral-octagon-a2d.notion.site/37f44e46f96480bf816bc5e0a1a13b91
+
+---
