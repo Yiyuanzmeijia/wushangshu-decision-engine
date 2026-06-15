@@ -1,108 +1,124 @@
-# WUSHANGSHU v2.0
-
-Most AI systems give you options.  
-
-WUSHANGSHU gives you one decision.  
-
-An AI decision engine that turns uncertainty into one clear decision.
+# WUSHANGSHU v2.0  
+## 十勝十敗論（Ten Wins Model）
 
 ---
 
-## Core Idea
+## Overview
 
-Most AI systems generate multiple possibilities.
+This is the core decision framework of WUSHANGSHU.
 
-WUSHANGSHU does something different:
-it converges uncertainty into a single decision.
+It is derived from Guo Jia (Han dynasty), extended as a modern decision system.
 
-Not explaining decisions.  
-Making them.
-
----
-
-## System Structure
-
-Sanbian → Sanjuan → 3D Structure → Decision Space  
-→ Convergence → Decision → Unity  
-
-### Sanbian (Three Transformations)
-- Time (timing / contextual evolution)  
-- Momentum (change / opportunity dynamics)  
-- Control (agency / execution power)  
-
-### Sanjuan (Three Axes)
-- Time  
-- Domain  
-- Action  
+The purpose is not to describe victory,  
+but to define how decisions are made under uncertainty.
 
 ---
 
-## Key Capabilities
+## Original Text（文）
 
-- Map uncertainty into structured dimensions  
-- Expand decision space (36 → 216 → 1296)  
-- Converge multiple possibilities into a single decision  
+武尚書 十勝十敗論
+
+漢 郭嘉 述  
+武尚書 補註 並 時事解  
+公元2026年  
+益源子 梅佳 編次  
+
+郭嘉曰 攻者敬也 而敵國服  
+乃可御人 不為事先  
+
+漢末群雄多以勇立名  
+但天下已非勇者勝之世  
+
+糧乏 地裂 民疲 兵散  
+勇不敵勢 死不敵時  
+
+故輕死者 必為大局所棄  
+
+此道勝一  
+
+強者恭也 怨之所攻  
+
+士卒用命 動而輒隨  
+
+群雄多守一隅  
+急於求成 不能久持  
+
+天下方亂 能久者勝 躁者亡  
+
+公能久 諸侯不能  
+
+知其不可戰 躁可久之  
+
+此德勝二  
+
+（以下略，完整請見 Notion / 本文）
+
+---
+
+## Ten Wins Model（術）
+
+The Ten Wins define a decision evaluation system:
+
+| Dimension | Meaning |
+|----------|--------|
+| 道勝 | Alignment with timing and macro forces |
+| 德勝 | Long-term endurance capability |
+| 仁勝 | Ability to gather and stabilize people |
+| 義勝 | Discipline over short-term impulses |
+| 治勝 | Decisiveness under uncertainty |
+| 明勝 | System and structure over trust |
+| 度勝 | Flexibility and tolerance |
+| 文勝 | Control of timing and tempo |
+| 謀勝 | Strategic planning capability |
+| 武勝 | Execution power |
+
+---
+
+## Core Insight
+
+十勝者 非勝人也  
+勝其欲與怠而已  
+
+Victory is not over others.  
+It is over desire and inertia.
+
+---
+
+## Decision Logic
+
+Input → Situation Evaluate → Ten Dimensions Score → Relative Advantage Converge → One Decision
 
 ---
 
 ## Example
 
-**Question:**  
-Should I build now, or wait?
+Question:  
+Should I act now or wait?
 
-**Evaluation:**
-- Time → opportunity window is open  
-- Momentum → grows only if action starts  
-- Control → execution is fully owned  
+Decision factors:
+- Momentum
+- Control
+- Timing
 
-**Convergence:**
-- Wait → lose momentum  
-- Act → gain structure + visibility  
+Result:
+Act → gain structure and visibility  
+Wait → lose momentum  
 
-👉 **Decision:**  
-Build now, publish early, refine later.
-
----
-
-## Why It Matters
-
-In high-uncertainty environments, more options don’t help.
-
-Clarity does.
-
-WUSHANGSHU is designed to reduce complexity  
-and force a decision when it matters most.
-
----
-
-## What Makes It Different
-
-Most systems optimize choices.  
-WUSHANGSHU defines the decision itself.
-
-It is not a recommendation engine.  
-It is a **decision engine**.
-
----
-
-## Use Cases
-
-- AI decision engines  
-- Product launch decisions  
-- Architecture trade-off analysis  
-- High-uncertainty strategic choices  
+👉 Decision: Act
 
 ---
 
 ## Philosophy
 
-From change → to structure → to decision → to unity  
+天下之敗 敗於欲與怠  
+天下之勝 勝於義與敬  
+
+This system defines decision quality  
+by internal state, not external strength.
 
 ---
 
-## Source (Full Model)
+## Source
 
-Classical Chinese version and full framework:  
-https://coral-octagon-a2d.notion.site/37f44e46f96480bf816bc5e0a1a13b91
-
----
+Full classical text (Chinese):
+https://coral-octagon-a2d.notion.site/37f44e46f96480bf816bc5e0a1a13b9
