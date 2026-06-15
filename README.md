@@ -1,13 +1,13 @@
 # Wushangshu Decision Engine
 
+> Early-stage decision system · Transition Engine v0.1
+
 An executable strategy system that converts **uncertainty into a single decision**.
 
-Unlike most AI systems that generate multiple options,  
-Wushangshu **converges possibilities into action** through:
+Most AI systems generate multiple options.  
+Wushangshu does something different:
 
-- structured evaluation  
-- strategy modeling  
-- state transition  
+> It converges possibilities into action.
 
 ---
 
