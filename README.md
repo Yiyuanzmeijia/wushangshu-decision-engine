@@ -1,7 +1,17 @@
-# 🧠 Repentance Samadhi 2.0
+## 🚀 Try It in 10 Seconds
+
+Copy and use this:
+
+Mistake → Detect → Deconstruct → Rebuild → Eliminate
+Capability = Make a mistake → Understand → Fix → Never repeat
+
+👉 Click the copy button (top-right corner)
+
+Start applying it to your decisions today.
 > A self-correction engine for decision systems
 
 ---
+# 🧠 Repentance Samadhi 2.0
 
 ## Core Idea
 
